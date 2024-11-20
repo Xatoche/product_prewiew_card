@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #0A0C1C;
+}
+
+main {
+    background-color: #1B1937;
+    color: aliceblue;
+    display: flex;
+    width: 1110px;
+}
+
+span {
+    color: #AB5CDB;
+}
+
+div {
+    padding: 72px;
+    font-family: "Inter", sans-serif;
+}
+
+h1 {
+    font-size: 36px;
+}
+
+
+
+h2 {
+    width: 374px;
+    height: 75px;
+    top: 361px;
+    left: 236.5px;
+    opacity: 0.75px;
+    font-size: 16px;
+}
+
+.containers {
+    display: flex;
+    justify-content: space-between;
+}
